@@ -227,6 +227,13 @@ button {
 
 
 /* Active link */
+.active-link {
+  background: linear-gradient(101deg,
+              hsl(228, 66%, 53%),
+              hsl(228, 66%, 47%));
+  color: #fff;
+  box-shadow: 0 4px 8px hsla(228, 66%, 45%, .25);
+}
 
 
 /*=============== HOME ===============*/
@@ -676,8 +683,15 @@ border-radius: 135px 135px 0 0;
   box-shadow: 0 8px 24px hsla(288, 66%, 45%, .1);
 }
 
-/*=============== SUBSCRIBE ===============*/
+.space {
+  margin-bottom: 11rem;
+}
 
+.contact__linkedin p a span {
+  color: var(--second-color);
+}
+
+/*=============== SUBSCRIBE ===============*/
 
 /*=============== FOOTER ===============*/
 
@@ -693,6 +707,25 @@ border-radius: 135px 135px 0 0;
 
 /*=============== BREAKPOINTS ===============*/
 /* For small devices */
+@media screen and (max-width: 350px) {
+  .container {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .section {
+    padding: 3.5rem 0 1rem;
+  }
+  
+  .home {
+    padding-bottom: 0;
+  }
+
+  .contact__card {
+    grid-template-columns: repeat(1, 180px);
+    justify-content: center;
+  }
+}
 
 
 /* For medium devices */
