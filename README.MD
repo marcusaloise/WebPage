@@ -1,3 +1,3 @@
 # LandingPage (main)
 
-Esse repositorio foi criado para armazenar o script da minha futura landingPage onde vai ser publicado na web e no linkedin, visando usar como forma de curriculo.
+Este repositório foi criado com o propósito de armazenar o script da minha futura landing page. A intenção é publicá-la na web e no LinkedIn, utilizando-a como uma forma de currículo online
