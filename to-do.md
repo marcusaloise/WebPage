@@ -1,12 +1,12 @@
 To-do list
 
 [X] - mudar foto
-[] - Mudar o idioma para ingles
+[x] - Mudar o idioma para ingles
 [X] - Criar um campo de "about"
 [X] - mudar a descrição
 [X] - tirar logos de tech
-[] - Adiconar certificações
-[] - adicionar posts
+[x] - Adiconar certificações
+[x] - adicionar posts
     [X] - Pokedex 
     [-] - Iac alura
     [-] - Curso Python
@@ -17,15 +17,22 @@ To-do list
     [-] - Estudos mudblazor
     [X] - TRATADOR
     [-] - Crudlilao
-    [] - WebPage
+    [-] - WebPage
     [X] - PulumiAWS
     [X] - challenges-repo
     [-] - POO_PY
     [] - server_connection 
-[] - adicionar cursos
-[] - aonde fazer a hospedagem do site (aws)
+[x] - adicionar cursos
+[x] - aonde fazer a hospedagem do site (aws)
 [] - como fazer o pull automatico com as mudanças
 [] - Criar actions
+
+
+
+{
+    "Version": ""
+}
+
 
 
 https://mercadolibre.eightfold.ai/careers?query=IT&location=Brazil&pid=11296366&domain=mercadolibre.com&sort_by=relevance
