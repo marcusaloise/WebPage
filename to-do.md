@@ -26,12 +26,7 @@ To-do list
 [x] - aonde fazer a hospedagem do site (aws)
 [] - como fazer o pull automatico com as mudanças
 [] - Criar actions
-
-
-
-{
-    "Version": ""
-}
+    [] - 
 
 
 
