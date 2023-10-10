@@ -542,6 +542,10 @@ border-radius: 135px 135px 0 0;
   font-size: var(--small-font-size);
 }
 
+.value__accordadion-title span {
+  color: var(--second-color);
+}
+
 .value__accordadion-arrow {
   display: inline-flex;
   background-color: var(--first-color-lighten);
@@ -567,6 +571,10 @@ border-radius: 135px 135px 0 0;
   overflow: hidden;
   height: 0;
   transition: all .25s ease;
+}
+
+.value__accordadion-content span a {
+  color: var(--second-color);
 }
 
 /*Rotate icon and add shadows*/
