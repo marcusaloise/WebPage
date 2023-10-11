@@ -24,9 +24,10 @@ To-do list
     [] - server_connection 
 [x] - adicionar cursos
 [x] - aonde fazer a hospedagem do site (aws)
-[] - como fazer o pull automatico com as mudanças
-[] - Criar actions
-    [] - 
+[X] - como fazer o pull automatico com as mudanças
+[] - Comprar um dns (marcusaloise.com)
+[] - Criar regras dee segurança para o site
+[] - criar texto para post
 
 
 
