@@ -26,7 +26,7 @@ To-do list
 [x] - aonde fazer a hospedagem do site (aws)
 [X] - como fazer o pull automatico com as mudanças
 [] - Comprar um dns (marcusaloise.com)
-[] - Criar regras dee segurança para o site
+[] - Criar regras de segurança para o site
 [] - criar texto para post
 
 
